@@ -78,6 +78,8 @@ to a public GitHub repository.
 
 ## Author / Contributions
 
+Mohamud Mohamed
+
 This project was developed as a university project. Suggestions and
 improvements are welcome through GitHub Issues or Pull Requests.
 [README.md](https://github.com/user-attachments/files/34136386/README.md)
